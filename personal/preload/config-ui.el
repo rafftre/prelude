@@ -1,1 +1,13 @@
-;; (setq initial-frame-alist '((top . 0) (left . 0) (width . 120) (height . 40)))
+;;; config-ui.el --- User interface configuration
+
+;;; Hide menu bar:
+;;(menu-bar-mode -1)
+
+;;; Color theme:
+;; (setq prelude-theme 'darcula)
+(setq prelude-theme 'hc-zenburn)
+;; (setq prelude-theme 'monokai)
+;; (setq prelude-theme 'solarized-dark)
+
+;;; Font & frame size:
+(setq default-frame-alist '((font . "Source Code Pro-10") (width . 120) (height . 40)))
