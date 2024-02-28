@@ -72,7 +72,7 @@
 ;; (require 'prelude-dart)
 (require 'prelude-emacs-lisp)
 ;; (require 'prelude-erlang)
-(require 'prelude-elixir)
+;; (require 'prelude-elixir)
 ;; (require 'prelude-fsharp)
 ;; (require 'prelude-go)
 ;; (require 'prelude-haskell)

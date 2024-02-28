@@ -5,3 +5,6 @@
 (prelude-require-package 'hc-zenburn-theme)
 ;; (prelude-require-package 'monokai-theme)
 ;; (prelude-require-package 'solarized-theme)
+
+;;; Standard ML Mode
+;; (prelude-require-package 'sml-mode)
