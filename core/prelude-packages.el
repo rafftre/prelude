@@ -79,6 +79,7 @@
     git-timemachine
     git-modes
     guru-mode
+    hc-zenburn-theme
     hl-todo
     imenu-anywhere
     projectile
