@@ -10,4 +10,4 @@
 ;; (setq prelude-theme 'solarized-dark)
 
 ;;; Font & frame size:
-(setq default-frame-alist '((font . "Source Code Pro-11") (width . 120) (height . 34)))
+(setq default-frame-alist '((font . "Source Code Pro-14") (width . 120) (height . 34)))
